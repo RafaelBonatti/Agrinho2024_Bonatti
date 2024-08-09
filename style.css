@@ -1,1 +1,44 @@
+.body{
+    background-color: black;
+    margin: 5%;
+    padding: 10px;
+    border: 10px;
+    border-color: black;
+}
 
+.cabeçalho{
+
+    background-color: black;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin: 5%;
+    padding: 10px;
+}
+
+.informações{
+
+    background-color:bisque;
+    padding: 10px;
+    margin: 5%;
+    text-align : center; 
+
+}
+
+.informações-titulo{
+    text-align: center;
+}
+
+.informações-texto{
+    text-align: justify;
+}
+
+.informações-2{
+
+    background-color:bisque;
+    text-align: center;
+    margin: 5%;
+    padding: 15px;
+}
+.informações-2-titulo2{
+    text-align: center;
+}
